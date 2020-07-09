@@ -3,3 +3,7 @@
 - 初始化Git仓库
 - 配置了VSCode Debugger
 - 实现了BinarySearchTree
+
+2020/07/07
+---
+- 实现了QuickSort
